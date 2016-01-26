@@ -49,7 +49,7 @@ body {
 form {
     padding: 20px;
     padding-left: 0;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 form input[type=text] {
@@ -81,4 +81,8 @@ form input[type=text] {
 
 .spinner img {
     padding: 10px;
+}
+
+#sendMessage {
+    margin-bottom: 20px;
 }

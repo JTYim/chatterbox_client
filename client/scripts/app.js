@@ -28,8 +28,6 @@ $(document).ready(function() {
 
             })
         }
-
-
     }
 
     $.ajax({
